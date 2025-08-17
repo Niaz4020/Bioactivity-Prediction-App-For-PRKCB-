@@ -83,4 +83,4 @@ CCN(CC)CCCC(C)Nc1ccc(OC)cc1 Molecule2
 ## 👨‍💻 Credits
 - Developed by **S M Riaduzzaman Niaz**  
 - Based on open-source cheminformatics workflows  
-- Credit to [Chanin Nantasenamat](https://medium.com/@chanin.nantasenamat) (aka [Data Professor](http://youtube.com/dataprofessor)) 
+- Credit to [Chanin Nantasenamat](https://medium.com/@chanin.nantasenamat) 
