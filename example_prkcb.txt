@@ -1,0 +1,5 @@
+O=c1cc(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12 CHEMBL151
+O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12 CHEMBL50
+CC(=O)Oc1ccccc1C(=O)O CHEMBL25
+O=c1oc2c(O)c(O)cc3c(=O)oc4c(O)c(O)cc1c4c23 CHEMBL6246
+C1=CC(=C(C2=C1C3=C(C(=C(C=C3C(=O)O2)O)O)O)O)O 18504424
