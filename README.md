@@ -3,7 +3,7 @@
 This repository contains a **bioactivity prediction web app** built with **Python** and **Streamlit**.  
 The app predicts the inhibitory activity (pIC50) of molecules against **PRKCB (Protein kinase C beta type)** — a drug target for **Diabetic Nephropathy**.
 
----
+----
 
 ## 🚀 Features
 - Upload molecules in `.txt` format (SMILES).
